@@ -1,0 +1,28 @@
+name: BenSlater
+favicon: null
+layout_spectrum: 0.028606767766177654
+typography_spectrum: 0.716843620641157
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8737456279341131
+  lightness: 0.9324937884230167
+  saturation: 0.44806085946038365
+  rhythmicContrast: 0.6436137538403273
+purpose: []
