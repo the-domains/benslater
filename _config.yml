@@ -1,6 +1,6 @@
 name: BenSlater
 favicon: null
-layout_spectrum: 0.81513
+layout_spectrum: 0.2479
 typography_spectrum: 0.20971
 title: Ben Slater
 cta:
@@ -22,8 +22,8 @@ color:
     - '#e7d6c4'
     - '#a49987'
     - '#746454'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.6875
-  rhythmicContrast: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
